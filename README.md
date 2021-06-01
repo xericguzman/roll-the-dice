@@ -10,7 +10,7 @@ Create a file called `six-sided.js` that uses the `Math.random()` to simulate a 
 
 The challenge here is transforming the random decimal (between 0 and 0.99999999...) into a number that's either 1, 2, 3, 4, 5, or 6. To do this you'll need to do some multiplying and some `Math.floor()`ing (or `Math.ceil()`ing).
 
-## Extra Credit
+## Stretch goals
 
 * Create a new file, `custom-roll.js`, that prompts the user for how many sides the dice should have, then simulates a roll of a dice with that many sides.
 
