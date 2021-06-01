@@ -12,6 +12,6 @@ The challenge here is transforming the random decimal (between 0 and 0.99999999.
 
 ## Extra Credit
 
-* Create a new file, `custom-roll.js`, that prompts the user for how many sides the dice shouldd have, then simulates a roll of a dice with that many sides.
+* Create a new file, `custom-roll.js`, that prompts the user for how many sides the dice should have, then simulates a roll of a dice with that many sides.
 
 * Create a new file, `rigged-dice.js`, which prompts the user first for a number of sides, then for a rigged number. The dice should roll the rigged number twice as frequently as the other numbers!
